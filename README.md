@@ -32,7 +32,7 @@ Hi, I'm a engineer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta-kume)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuta-kume)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuta-kume&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **yuta-kume/yuta-kume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

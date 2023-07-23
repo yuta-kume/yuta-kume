@@ -6,7 +6,7 @@ Hi, I'm a engineer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,php,py&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,php,py,swift&perline=6" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Hi, I'm a engineer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,git,github,githubactions,mysql,prisma,sqlite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=azure,git,github,githubactions,mysql,postgres,prisma,tailwind" />
   </a>
 </p>
 
